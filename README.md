@@ -1,4 +1,4 @@
-Fake News Prediction
+Fake News Prediction:
 This project aims to detect and classify fake news articles using Natural Language Processing (NLP) and Machine Learning techniques. The system is trained to analyze the content of news articles and identify whether they are genuine or fake.
 
 Features:
