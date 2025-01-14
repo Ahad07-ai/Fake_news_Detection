@@ -12,7 +12,7 @@ Machine Learning Models:
 Implementation of classification algorithms such as Logistic Regression, Naive Bayes, or Random Forest.
 Evaluation of model performance using accuracy, precision, recall, and F1-score metrics.
 
-Dataset: Utilizes a labeled dataset containing real and fake news articles from Koggle.
+Dataset: Utilized a labeled dataset containing real and fake news articles from Koggle.
 
 Vectorization:
 Converts text data into numerical form using TF-IDF Vectorizer for model training.
